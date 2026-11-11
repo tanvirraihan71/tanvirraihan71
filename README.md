@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=M.R.%20Tanvir&fontSize=55&fontColor=00f2ff&animation=fadeIn&fontAlignY=38&desc=Network%20Admin%20%7C%20Linux%20SysAdmin%20%7C%20SOC%20Analyst&descSize=20&descAlignY=60&descAlign=50" alt="Banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=650&lines=Executive+IT+-+Network+%26+System+Admin;Network+Admin+%7C+Linux+SysAdmin+%7C+SOC+Analyst;CCNA+Certified+%7C+MTCNA+%7C+RHCSA+Trained;M.Sc.+Cyber+Security+Candidate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=650&lines=Executive+IT+-+Network+%26+System+Admin;Network+Admin+%7C+Linux+SysAdmin+%7C+SOC+Analyst;CCNA+Certified+%7C+MTCNA+%7C+RHCSA+;M.Sc.+Cyber+Security+Candidate" alt="Typing SVG" />
 
 <br/><br/>
 
