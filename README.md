@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" alt="M.R. Tanvir banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=M.R.%20Tanvir&fontSize=55&fontColor=00f2ff&animation=fadeIn&fontAlignY=38&desc=Network%20Admin%20%7C%20Linux%20SysAdmin%20%7C%20SOC%20Analyst&descSize=20&descAlignY=60&descAlign=50" alt="Banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=650&lines=Executive+IT+-+Network+%26+System+Admin;Network+Admin+%7C+Linux+SysAdmin+%7C+SOC+Analyst;CCNA+Certified+%7C+MTCNA+%7C+RHCSA+Trained;M.Sc.+Cyber+Security+Candidate" alt="Typing SVG" />
 
@@ -90,7 +90,11 @@
 ## 🏆 Certification Trophies
 
 <p align="center">
-  <img src="./assets/trophies.svg" alt="Certifications" width="100%"/>
+  <img src="https://img.shields.io/badge/CCNA-Cisco_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/MTCNA-MikroTik_Training-293239?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RHCSA-Red_Hat_Training-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/M.Sc.-Cyber_Security-00c6ff?style=for-the-badge" />
 </p>
 
 ---
@@ -162,4 +166,4 @@
   <sub>Open to collaboration in network security, SOC monitoring, Linux administration and routing security research.</sub>
 </p>
 
-<img src="./assets/footer.svg" alt="Footer wave" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" width="100%" alt="Footer"/>
